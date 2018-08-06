@@ -1,4 +1,4 @@
-# DesignPattern
+# DesignPatterns
 设计模式总概括
 
 ***************
